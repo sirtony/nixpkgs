@@ -32,7 +32,7 @@ let
     owner = "Eugeny";
     repo = "tabby";
     rev = "406e9e1";
-    hash = "sha256-IMrRak6u7LRcvp2Ve2AOreNDPJM0kofMp53sKaobqO4=";
+    hash = "sha256-BWX2SLZcUgll0Dmba72wfpfDANwXAxbEU+L1Lb1+pkM=";
     leaveDotGit = true;
   };
 
